@@ -1,6 +1,6 @@
 # TypeScript Notları
 
-Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) sayfasında yazılan typescript derslerini türkçeleştiriyorum.
+Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) sayfasında yazılan typescript derslerini türkçeleştiriyorum. Çeviriler bittikten sonra PROTOTURK youtube kanalında videolarını hazırlamaya başlayacağım.
 
 ## Başlarken
 
