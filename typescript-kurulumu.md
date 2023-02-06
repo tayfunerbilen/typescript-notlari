@@ -61,3 +61,9 @@ Live Server eklentisini yüklemek için şu adımları takip edin:
 - Yükleme butonuna basıp eklentiyi kurun.
 
 Bu bölümde TypeScript çalıştırmak için gerekli ortamların kurulumunu öğrendiniz. Tebrikler :)
+
+----
+
+| 👈  Önceki Bölüm  | Sonraki Bölüm  👉 |
+| ------------- | ------------- |
+| [TypeScript Nedir?](./typescript-nedir.md) | [TypeScript, 'Hello, World!'](./typescript-hello-world.md) |
