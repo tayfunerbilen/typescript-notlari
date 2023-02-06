@@ -26,3 +26,35 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - Union Tipleri
 - Tip Takma Adları
 - String Literal Tipleri
+
+## Fonksiyonlar
+
+- Fonksiyonlar
+- Fonksiyon Tipleri
+- Opsiyonel Parametreler
+- Varsayılan Parametreler
+- Kalan Parametreler (Rest)
+- Fonksiyon Aşırı Yüklemesi (Overloadings)
+
+## Sınıflar
+
+- Sınıflar
+- Erişim Değiştiriciler
+- Readonly Özellikler
+- Miras (Inheritence)
+- Static metod ve özellikler
+- Abstract Sınıflar
+
+## Arayüzler (Interfaces)
+
+- Arayüzler
+- Arayüzleri Genişletmek
+
+## Gelişmiş Tipler
+
+- Kesişen Tipler
+- Tip Guard
+- Tip Casting
+- Tip Assertion
+
+....
