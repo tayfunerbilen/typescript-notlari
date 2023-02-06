@@ -80,7 +80,7 @@ const product = getProduct(1);
 console.log(`The product ${product.Name} costs $${product.price}`);
 ```
 
-Çıktısı şöyle olurduŞ
+Çıktısı şöyle olurdu.
 
 ```
 The product undefined costs $99.5 
