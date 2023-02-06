@@ -85,4 +85,6 @@ Ve TypeScript genelde 3. aşamadaki özellikleri destekler.
 
 ----
 
-👉 Sonraki Bölüm: [TypeScript Kurulumu](./typescript-kurulumu.md)
+| Sonraki Bölüm  👉 |
+| ------------- |
+| [TypeScript Kurulumu](./typescript-kurulumu.md) |
