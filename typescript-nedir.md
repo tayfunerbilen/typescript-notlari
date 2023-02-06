@@ -26,7 +26,7 @@ Aşağıdaki diyagram javascript ve typescript arasındaki ilişkiyi göstermekt
 
 TypeScript'in asıl amacı:
 - JavaScript'de tip tanımları yapmak
-- Mevcut JavaScript'in yanında ECMAScript Next veya ES Next olarak da bilinen gelecekteki JavaScript'in planlanan özelliklerini uygulamak
+- Mevcut JavaScript'in yanında ECMAScript Next veya ES Next olarak da bilinen gelecekteki JavaScript'in planlanan özelliklerini kullanmaktır.
 
 ### 1) TypeScript hataların önlenmesine yardımcı olurken üretkenliğinizi artırır
 
