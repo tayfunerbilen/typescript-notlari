@@ -7,7 +7,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [TypeScript Nedir?](./typescript-nedir.md)
 - [TypeScript Kurulumu](./typescript-kurulumu.md)
 - [TypeScript, 'Hello, World!'](./typescript-hello-world.md)
-- Neden TypeScript
+- [Neden TypeScript](./neden-typescript.md)
 
 ## Basit Tipler
 
