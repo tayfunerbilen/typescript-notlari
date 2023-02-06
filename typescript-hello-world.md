@@ -90,3 +90,9 @@ Açılan tarayıcı aşağıdaki gibi bir çıktı verecek:
 Unutmayın, `app.js` dosyası compiler tarafından üretiliyor, değişiklikleri bu dosya üzerinde doğrudan yaparsanız bir sonraki compile işleminde bu değişikliklerin üzerine yazılacaktır, bu yüzden her zaman `.ts` dosyasında geliştirmelerinizi yapın.
 
 Bu bölüde node.js ve web tarayıcısında çalışan bir "hell world" yani en basit bir TypeScript örneğinin nasıl olabileceğini gördük.
+
+----
+
+| 👈  Önceki Bölüm  | Sonraki Bölüm  👉 |
+| ------------- | ------------- |
+| [TypeScript Kurulumu](./typescript-kurulumu.md) | [Neden TypeScript](./neden-typescript.md) |
