@@ -2,7 +2,7 @@
 
 ## TypeSript'e Giriş
 
-Typescript, Javascript'in üst kümesidir _(super set)_ ve javascript'in üzerine kuruludur.
+Typescript, Javascript'in üst kümesidir. _(super set)_ 
 
 > **Super Set:** Programlamada "super set", bir veri tipinin veya bir sınıfın başka bir veri tipinin veya sınıfın tüm özelliklerini içerdiği anlamında kullanılır. Yani, bir veri tipi veya sınıf "super set" olarak tanımlanabilirse, içindeki tüm elemanlar başka bir veri tipinin veya sınıfın elemanlarını da içermelidir. Örneğin, bir dizi veri tipi "super set" olarak tanımlanabilirse, içindeki tüm elemanlar başka bir dizi veri tipinin elemanlarını da içermelidir. [ChatGPT]
 
