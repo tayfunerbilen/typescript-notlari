@@ -11,7 +11,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 
 ## Basit Tipler
 
-- TypeScript Tipleri
+- [TypeScript Tipleri](./typescript-tipleri.md)
 - Tip Ek açıklamaları
 - Tip Çıkarımları
 - Number Tipi
