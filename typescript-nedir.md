@@ -80,3 +80,7 @@ Her yıl, TC39 ECMAScript için yeni özellikler çıkarır, JavaScript'in stand
 - Stage 4 - Tamamlanmış
 
 Ve TypeScript genelde 3. aşamadaki özellikleri destekler.
+
+----
+
+👉 Sonraki Bölüm: [TypeScript Kurulumu](./typescript-kurulumu.md)
