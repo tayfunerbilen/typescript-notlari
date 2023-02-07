@@ -12,8 +12,8 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 ## Basit Tipler
 
 - [TypeScript Tipleri](./typescript-tipleri.md)
-- [Tip Tanımı](./typescript-tip-tanimi.md)
-- Tip Çıkarımı
+- [TypeScript Tip Tanımları](./typescript-tip-tanimi.md)
+- [TypeScript Tip Çıkarımları](./typescript-tip-cikarimlari.md)
 - Number Tipi
 - String Tipi
 - Boolean Tipi
