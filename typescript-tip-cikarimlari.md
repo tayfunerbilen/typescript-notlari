@@ -1,4 +1,6 @@
-TypeScript'de bir tip tanımlanmaması durumunda nasıl çıkarım yapıldığını belirler.
+# TypeScript Tip Çıkarımları
+
+**Özet:** Bu bölümdee TypeScript'de bir tip tanımlanmaması durumunda, TypeScript'in nasıl çıkarım yaptığını öğreneceğiz.
 
 ## Basit Tip Çıkarımları
 
