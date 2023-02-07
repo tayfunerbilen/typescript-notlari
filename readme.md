@@ -13,7 +13,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 
 - [TypeScript Tipleri](./typescript-tipleri.md)
 - [Tip Tanımı](./typescript-tip-tanimi.md)
-- Tip Çıkarımları
+- Tip Çıkarımı
 - Number Tipi
 - String Tipi
 - Boolean Tipi
