@@ -12,7 +12,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 ## Basit Tipler
 
 - [TypeScript Tipleri](./typescript-tipleri.md)
-- Tip Ek açıklamaları
+- [Tip Tanımı](./typescript-tip-tanimi.md)
 - Tip Çıkarımları
 - Number Tipi
 - String Tipi
