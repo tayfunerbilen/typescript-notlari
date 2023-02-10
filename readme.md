@@ -15,7 +15,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [TypeScript Tip Tanımları](./typescript-tip-tanimi.md)
 - [TypeScript Tip Çıkarımları](./typescript-tip-cikarimlari.md)
 - [Number Tipi](./typescript-number-tipi.md)
-- String Tipi
+- [String Tipi](./typescript-string-tipi.md)
 - Boolean Tipi
 - Object Tipi
 - Array Tipi
