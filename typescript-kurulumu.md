@@ -5,7 +5,7 @@
 TypeScript yazmaya başlamak için gerekli araçların kurulumu:
 
 - Node.js - TypeScript compiler'ı çalıştırmak için gerekli program. Nodejs bilmenize gerek yok.
-- TypeScript Compiler - TypeScript'den JavaScript'e compile etmek için gerekli nodejs modülü. Eğer nodejs'de TypeScript kullanıyorsanız `ts-node` paketini kurabilirsiniz. 
+- TypeScript Compiler - TypeScript'den JavaScript'e compile etmek için gerekli modül. Eğer nodejs'de TypeScript kullanıyorsanız `ts-node` paketini kurabilirsiniz. 
 - VSCode - TypeScript'i destekleyen bir kod editörü. Önerilir, ancak herhangi bri kod editörü de kullanabilirsiniz.
 
 Eğer VSCode kullanıyorsanız, geliştirme sürecinizi hızlandırmak için aşağıdaki eklentiyi de yükleyebilirsiniz:
