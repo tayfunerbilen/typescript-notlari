@@ -2,23 +2,25 @@
 
 ## TypeSript'e Giriş
 
-Typescript, Javascript'in üst kümesidir. _(super set)_ 
+TypeScript, JavaScript'in üst kümesidir. _(super set)_ 
 
 > **Super Set:** Programlamada "super set", bir veri tipinin veya bir sınıfın başka bir veri tipinin veya sınıfın tüm özelliklerini içerdiği anlamında kullanılır. Yani, bir veri tipi veya sınıf "super set" olarak tanımlanabilirse, içindeki tüm elemanlar başka bir veri tipinin veya sınıfın elemanlarını da içermelidir. Örneğin, bir dizi veri tipi "super set" olarak tanımlanabilirse, içindeki tüm elemanlar başka bir dizi veri tipinin elemanlarını da içermelidir. [ChatGPT]
 
-Typescript kodunuzu yazdıktan sonra kodunuzu Typescript compiler ile javascript koduna çevirirsiniz.
+TypeScript: tip güvenli TypeScript kodunun yazıldıktan sonra compiler vasıtası ile tarayıcılarımızın içerisinde çalışabilecek JavaScript koduna çevrilmesi ile çalışan bir yapıya sahiptir.
 
-Nihayetinde her zaman elinizde bir javascript kodunuz olur ve bunu istediğiniz yere deploy edip kullanabilirsiniz.
+Kısacası: Yazdığınız TypeScript kodu tarayıcı içerisinde çalışmaz. TypeScript tip güvenliği ve diğer geniş özellikleri ile genişletebildiğimiz JavaScript kodları yazmanızda bir arayüz işlevi görür. 
 
-Typescript dosyaları javascript'in aksine `.js` yerine `.ts` uzantısını kullanır.
+Nihayetinde her zaman elinizde bir JavaScript kodunuz olur ve bunu istediğiniz yere deploy edip kullanabilirsiniz.
+
+TypeScript dosyaları JavaScript'in aksine `.js` yerine `.ts` uzantısını kullanır.
 
 ![](https://www.typescripttutorial.net/wp-content/uploads/2020/05/what-is-typescript-compiler.png)
 
-Typescript, Javascript'in syntax'ını kullanır buna ek olarakda Tipleri destekler. 
+TypeScript, JavaScript'in syntax'ını kullanır buna ek olarakda Tipleri destekler. 
 
-Eğer javascript kodunuzda bir syntax hatanız yoksa, typescript'de de hatanız yok demektir. Bu da tüm javascript kodlarının aslında typescript kodu olduğu anlamına gelir.
+Eğer JavaScript kodunuzda bir syntax hatanız yoksa, TypeScript'de de hatanız yok demektir. Bu da tüm JavaScript kodlarının aslında TypeScript kodu olduğu anlamına gelir.
 
-Aşağıdaki diyagram javascript ve typescript arasındaki ilişkiyi göstermektedir.
+Aşağıdaki diyagram JavaScript ve TypeScript arasındaki ilişkiyi göstermektedir.
 
 ![](https://www.typescripttutorial.net/wp-content/uploads/2020/05/what-is-typescript-typescript-and-js.png)
 
@@ -28,9 +30,9 @@ TypeScript'in asıl amacı:
 - JavaScript'de tip tanımları yapmak
 - Mevcut JavaScript'in yanında ECMAScript Next veya ES Next olarak da bilinen gelecekteki JavaScript'in planlanan özelliklerini kullanmaktır.
 
-### 1) TypeScript hataların önlenmesine yardımcı olurken üretkenliğinizi artırır
+### 1) TypeScript JavaScript kodu içerisinde oluşabilecek potansiyel tip hatalarının önlenmesine yardımcı olurken üretkenliğinizi de artırır.
 
-Tipler hatalarla boğuşmanızı engellerken üretkenliğinizi artırır. Tipleri kullanarak, hataları run-time yerine compile-time'da yakalayabilirsiniz.
+TypeScript'in sunduğu tipler oluşabilecek hatalarla boğuşmanızı engellerken üretkenliğinizi de artırır. Tipleri kullanarak, hataları run-time yerine compile-time'da yakalayabilirsiniz.
 
 Aşağıdaki fonksiyon `x` ve `y` değerlerini alıp toplayarak geriye döndürür.
 
@@ -40,7 +42,7 @@ function add(x, y) {
 }
 ```
 
-Eğer bu değerleri bir HTML etiketinden alıp fonksiyona parametre olarak geçerseniz, istemediğiniz bir sonuç alabilirsiniz.
+Eğer bu değerleri bir HTML etiketinden alıp fonksiyona parametre olarak geçerseniz, parametre olarak girdiğiniz değerlerin tipleri kontrol edilmediği için istemediğiniz bir sonuç alabilirsiniz.
 
 ```js
 let result = add(input1.value, input2.value);
@@ -67,7 +69,7 @@ Aşağıdaki gibi fonksiyonu çağırırsanız:
 let result = add(input1.value, input2.value);
 ```
 
-TypeScript compiler'ı javascript'e çevirirken hata verecektir. Böylece runtime'da hata almayı önlemiş olursunuz.
+TypeScript compiler'ı JavaScript'e çevirirken hata verecektir. Böylece runtime'da hata almayı önlemiş olursunuz.
 
 ### 2) TypeScript Gelecek JavaScript'i Bugüne Getirir
 
