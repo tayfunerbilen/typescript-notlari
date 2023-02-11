@@ -93,7 +93,7 @@ let employee: {
 
 ## object vs. Object
 
-TypesScript'de `Object` ya da `{}` adında başka bir tip daha mevcut. Baş harfi büyük, bunu `object` tipiyle karıştırmayın.
+TypeScript'de `Object` ya da `{}` adında başka bir tip daha mevcut. Baş harfi büyük, bunu `object` tipiyle karıştırmayın.
 
 `object` tipi tüm primitive olmayan değerleri temsil eder. `Object` ise objelerin fonksiyonelliğini tanımlar.
 
