@@ -19,7 +19,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [Boolean Tipi](./typescript-boolean-tipi.md)
 - [Object Tipi](./typescript-object-tipi.md)
 - [Array Tipi](./typescript-array-tipi.md)
-- Tuple Tipi
+- [Tuple Tipi](./typescript-tuple-tipi.md)
 - Enum Tipi
 - Any Tipi
 - Never Tipi
