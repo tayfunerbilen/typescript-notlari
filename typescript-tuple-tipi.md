@@ -39,7 +39,7 @@ let color: [number, number, number] = [255, 0, 0];
 
 ## Opsiyonel Tuple Öğeleri
 
-TypeScript 3.0'dan sonra, (?) öneki kullanarak tuple öğelerini opsiyonel yapabilirsiniz.
+TypeScript 3.0'dan sonra, öğelerin sonuna (?) koyarak opsiyonel yapabilirsiniz.
 
 Örneğin, RGB yerine RGBA tanımlamak isteseydik, 4. parametre ALPHA değeri opsiyonel bir seçenek olacaktı.
 
