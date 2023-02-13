@@ -2,6 +2,9 @@
 
 **Özet:** Bu bölümde TypeScript geliştirme ortamının nasıl kurulacağını öğreneceksiniz.
 
+### Ders Videosu
+[![Videolu Ders](https://i.ytimg.com/vi/w95wP6azdRU/maxresdefault.jpg)](https://www.youtube.com/watch?v=w95wP6azdRU)
+
 TypeScript yazmaya başlamak için gerekli araçların kurulumu:
 
 - Node.js - TypeScript compiler'ı çalıştırmak için gerekli program. Nodejs bilmenize gerek yok.
