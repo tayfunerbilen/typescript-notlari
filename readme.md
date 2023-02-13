@@ -4,10 +4,10 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 
 ## Başlarken
 
-- [TypeScript Nedir?](./typescript-nedir.md)
-- [TypeScript Kurulumu](./typescript-kurulumu.md)
-- [TypeScript, 'Hello, World!'](./typescript-hello-world.md)
-- [Neden TypeScript](./neden-typescript.md)
+- [🎥 TypeScript Nedir?](./typescript-nedir.md)
+- [🎥 TypeScript Kurulumu](./typescript-kurulumu.md)
+- [🎥 TypeScript, 'Hello, World!'](./typescript-hello-world.md)
+- [🎥 Neden TypeScript](./neden-typescript.md)
 
 ## Basit Tipler
 
