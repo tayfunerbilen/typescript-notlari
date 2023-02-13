@@ -20,7 +20,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [Object Tipi](./typescript-object-tipi.md)
 - [Array Tipi](./typescript-array-tipi.md)
 - [Tuple Tipi](./typescript-tuple-tipi.md)
-- Enum Tipi
+- [Enum Tipi](./typescript-enum-tipi.md)
 - Any Tipi
 - Never Tipi
 - Union Tipleri
