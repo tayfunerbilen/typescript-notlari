@@ -1,5 +1,8 @@
 # TypeScript Nedir?
 
+### Ders Videosu
+[![Videolu Ders](https://i.ytimg.com/vi/yl46ucRsJE8/maxresdefault.jpg)](https://www.youtube.com/watch?v=yl46ucRsJE8)
+
 ## TypeSript'e Giriş
 
 Typescript, Javascript'in üst kümesidir. _(super set)_ 
