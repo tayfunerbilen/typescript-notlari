@@ -2,6 +2,9 @@
 
 **Özet:** Bu bölümde, en basit typescript uygulamasının nasıl geliştirildiğini öğreneceksiniz.
 
+### Ders Videosu
+[![Videolu Ders](https://i.ytimg.com/vi/UgxgqB34lq0/maxresdefault.jpg)](https://www.youtube.com/watch?v=UgxgqB34lq0)
+
 ## Node.js'de TypeScript "Hello World" Programı
 
 1. Çalışmak için bir klasör oluşturun. Örneğin: `helloworld`
