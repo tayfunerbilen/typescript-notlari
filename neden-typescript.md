@@ -2,6 +2,9 @@
 
 **Özet:** Bu bölümde dinamik veri türleri tarafından oluşabilecek hataları önlemek için neden JavaScript yerine TypeScript kullanmanız gerektiğini öğreneceksiniz.
 
+### Ders Videosu
+[![Videolu Ders](https://i.ytimg.com/vi/ihwXELzUIkg/maxresdefault.jpg)](https://www.youtube.com/watch?v=ihwXELzUIkg)
+
 ## Neden TypeScript Kullanmalıyız
 
 TypeScript kullanmanın iki temel sebebi vardır:
