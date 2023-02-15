@@ -6,17 +6,17 @@
 
 TypeScript'de tip, bir değerin sahip olduğu farklı özellik ve metodlara başvurmanın doğru bir yoludur.
 
-Değişkene atanan herhangi bir değer olabilir. Örn: number, string, array, object, function.
+Değer, bir değişkene atanabilen herhangi bir şey olabilir. Örn: number, string, array, object, function.
 
-Örnek değere bakacak olursak:
+Örneğe bakalım:
 
 ```ts
 'Hello'
 ```
 
-Bunun bir string olduğunu söyleyebiliriz. Ayrıca bu değer string'in sahip olduğu özellik ve metodlara da sahiptir.
+Değere baktığınızda, bunun bir string olduğunu söyleyebilirsiniz. Ve bu değer `string` in sahip olduğu özellik ve metodlara sahiptir.
 
-Örneğin, `Hello` değeri karakter uzunluğunu gösteren `length` özelliğine de sahiptir. 
+Örneğin, `Hello` değeri karakter uzunluğunu döndüren `length` özelliğine sahiptir. 
 
 ```ts
 console.log('Hello'.length); // 5
@@ -28,7 +28,7 @@ Aynı zamanda `match()`, `indexOf()` ve `toLocaleUpperCase()` gibi bir çok meto
 console.log('Hello'.toLocaleUpperCase()); // HELLO 
 ```
 
-Eğer `Hello` değerine bakarsanız ve aldığı özellik ve metodlara göre tanımlamaya çalışırsanız bu doğru bir yöntem olmayacaktır.
+Eğer `Hello` değerine bakarak aldığı özellik ve metodlara göre tahmin etmeye çalışırsanız bu doğru bir yöntem olmayacaktır.
 
 Bir değerin neyi temsil ettiğini anlamanın en kısa yolu ona bir tip tanımlamaktır. Bu örnekte `Hello` string'dir. O halde hangi özellik ve metodları kullanacağını da biliyorsun.
 
