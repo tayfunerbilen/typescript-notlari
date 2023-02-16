@@ -2,6 +2,9 @@
 
 **Özet:** Bu bölümde TypeScript tiplerini ve kullanım amaçlarını öğreneceksiniz.
 
+### Ders Videosu
+[![Videolu Ders](https://i.ytimg.com/vi/3FwPXbi6chQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=3FwPXbi6chQ)
+
 ## TypeScript'de Tip Nedir?
 
 TypeScript'de tip, bir değerin sahip olduğu farklı özellik ve metodlara başvurmanın doğru bir yoludur.
