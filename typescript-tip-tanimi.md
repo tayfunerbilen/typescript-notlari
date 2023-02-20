@@ -2,6 +2,9 @@
 
 Değişken, fonksiyon, nesne gibi tanımlayıcıların tiplerini açıkça belirtmek için tip tanımları yapılır. Şu ana kadar zaten nasıl yapıldığını gördünüz ama bu bölümde detaylı olarak bundan bahsedeceğiz.
 
+### Ders Videosu
+[![Videolu Ders](https://i.ytimg.com/vi/h_e8K5XDMd4/maxresdefault.jpg)](https://www.youtube.com/watch?v=h_e8K5XDMd4)
+
 TypeScript'de tip tanımı yapmak için tanımlayıcıdan sonra `: type` syntax'ı kullanılır. Burada `type` değeri herhangi bir geçerli tip olabilir.
 
 Bir kez tip tanımlandığında, sadece o tip değerlerle işlem yapılabilir. Eğer farklı tipte bir değer tanımı yapmaya çalışırsanız TypeScript Compiler hata verecektir.
