@@ -2,6 +2,9 @@
 
 **Özet:** Bu bölümde TypeScript'de bir tip tanımlaması yapılmadığı durumunda, TypeScript'in tipler hakkında nasıl çıkarım yaptığını öğreneceğiz.
 
+### Ders Videosu
+[![Videolu Ders](https://i.ytimg.com/vi/n3DO6pI7ssk/maxresdefault.jpg)](https://www.youtube.com/watch?v=n3DO6pI7ssk)
+
 ## Basit Tip Çıkarımları
 
 Bir değişken tanımladığınızda, tip tanımlarını kullanarak değişkenin tipini belirleyebilirsiniz.
