@@ -21,7 +21,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [Array Tipi](./typescript-array-tipi.md)
 - [Tuple Tipi](./typescript-tuple-tipi.md)
 - [Enum Tipi](./typescript-enum-tipi.md)
-- Any Tipi
+- [Any Tipi](./typescript-any-tipi.md)
 - Never Tipi
 - Union Tipleri
 - Tip Takma Adları
