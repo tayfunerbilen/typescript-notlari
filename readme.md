@@ -29,8 +29,8 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 
 ## Fonksiyonlar
 
-- Fonksiyonlar
-- Fonksiyon Tipleri
+- [Fonksiyonlar](./typescript-functions.md)
+- [Fonksiyon Tipleri](./typescript-function-types.md)
 - Opsiyonel Parametreler
 - Varsayılan Parametreler
 - Kalan Parametreler (Rest)
