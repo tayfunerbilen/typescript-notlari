@@ -22,10 +22,10 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [Tuple Tipi](./typescript-tuple-tipi.md)
 - [Enum Tipi](./typescript-enum-tipi.md)
 - [Any Tipi](./typescript-any-tipi.md)
-- Never Tipi
-- Union Tipleri
-- Tip Takma Adları
-- String Literal Tipleri
+- [Never Tipi](./typescript-never-tipi.md)
+- [Union Tipleri](./typescript-union-tipi.md)
+- [Tip Takma Adları](./typescript-type-aliases.md)
+- [String Değişmez Tipleri](./typescript-string-literal-types.md)
 
 ## Fonksiyonlar
 
