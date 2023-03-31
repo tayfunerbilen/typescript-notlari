@@ -80,7 +80,7 @@ let person = new Person('171-28-0926','John','Doe');
 console.log(person.getFullName());
 ```
 
-TypeScript sınıfı, sınıfın özelliklerine ve yöntemlerine [tür ek açıklamaları](./typescript-tip-tanimi.md) ekler. Aşağıda TypeScript'teki `Person` sınıfı gösterilmektedir:
+TypeScript sınıfı, sınıfın özelliklerine ve yöntemlerine [tip ek açıklamaları](./typescript-tip-tanimi.md) ekler. Aşağıda TypeScript'teki `Person` sınıfı gösterilmektedir:
 
 ```ts
 class Person {
