@@ -31,8 +31,8 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 
 - [Fonksiyonlar](./typescript-functions.md)
 - [Fonksiyon Tipleri](./typescript-function-types.md)
-- [Opsiyonel Parametreler](./typescript-optional-parameters.md)
-- Varsayılan Parametreler
+- [İsteğe Bağlı Parametreler](./typescript-optional-parameters.md)
+- [Varsayılan Parametreler](./typescript-default-parameters.md)
 - Kalan Parametreler (Rest)
 - Fonksiyon Aşırı Yüklemesi (Overloadings)
 
