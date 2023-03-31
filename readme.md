@@ -38,7 +38,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 
 ## Sınıflar
 
-- Sınıflar
+- [Sınıflar](./typescript-class.md)
 - Erişim Değiştiriciler
 - Readonly Özellikler
 - Miras (Inheritence)
