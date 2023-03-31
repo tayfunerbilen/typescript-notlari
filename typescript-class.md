@@ -35,7 +35,7 @@ Konsola aşağıdaki çıktıyı verir:
 John Doe
 ```
 
-ES6, yapıcı işlev ve prototip kalıtım oluşturmak için basitçe **sözdizimsel şeker (syntactic sugar)** olan bir sınıf tanımlamanıza izin verdi:
+ES6, yapıcı metod ve prototip kalıtım oluşturmak için basitçe **sözdizimsel şeker (syntactic sugar)** olan bir sınıf tanımlamanıza izin verdi:
 
 > JavaScript sınıflarında "syntactic sugar", kodun okunabilirliğini ve yazılmasını kolaylaştırmak için kullanılan bir yapıdır. Yani, aslında yapılan şey aynı, ancak daha okunaklı bir yazım şekli kullanılarak daha anlaşılır hale getirilir.
 
