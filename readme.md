@@ -34,7 +34,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [İsteğe Bağlı Parametreler](./typescript-optional-parameters.md)
 - [Varsayılan Parametreler](./typescript-default-parameters.md)
 - [Rest Parametresi](./typescript-rest-parameters.md)
-- Fonksiyon Aşırı Yüklemesi (Overloadings)
+- [Fonksiyon Aşırı Yüklemesi (Overloadings)](./typescript-function-overloadings.md)
 
 ## Sınıflar
 
