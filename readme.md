@@ -41,6 +41,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 - [Sınıflar](./typescript-class.md)
 - [Erişim Değiştiricileri](./typescript-access-modifiers.md)
 - [Readonly Erişim Değiştirici](./typescript-readonly.md)
+- [Getters & Setters](./typescript-getters-setters.md)
 - Miras (Inheritence)
 - Static metod ve özellikler
 - Abstract Sınıflar
