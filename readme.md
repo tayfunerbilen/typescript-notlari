@@ -39,7 +39,7 @@ Bu repo altında, [typescripttutorial.net](https://www.typescripttutorial.net/) 
 ## Sınıflar
 
 - [Sınıflar](./typescript-class.md)
-- [Erişim Değiştiricileri](./typescript-access-modifiers)
+- [Erişim Değiştiricileri](./typescript-access-modifiers.md)
 - Readonly Özellikler
 - Miras (Inheritence)
 - Static metod ve özellikler
